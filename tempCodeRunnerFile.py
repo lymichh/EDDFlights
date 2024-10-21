@@ -1,0 +1,2 @@
+conectividad_text = CTkTextbox(master=conectividad_frame, font=("Arial", 18), height=260, width=550, fg_color="#adb5bd", corner_radius=20)  # Cambié el height y width
+    conectividad_text.configure(state="disabled")
